@@ -1,10 +1,14 @@
 ---
 title: polar plot
 created: '2024-12-15T11:36:27.718Z'
-modified: '2024-12-15T12:42:46.531Z'
+modified: '2024-12-15T13:41:01.182Z'
 ---
 
 # polar plot
+π/4≈0.785398
+{r =0.785398 r ϕ + 0, r = 0.785398 ϕ + 0.785398 ϕ + 0 = 0.785398 r ϕ + 0}
+
+https://www.wolframalpha.com/input?i=%7Br+%3D0.785398+r+%CF%95+%2B+0%2C+r+%3D+0.785398+%CF%95+%2B+0.785398+%CF%95+%2B+0+%3D+0.785398+r+%CF%95+%2B+0%7D
 
 {r = 0.809017 r ϕ + 0, r = 0.809017 ϕ + 0, 0.809017 ϕ + 0 = 0.809017 r ϕ + 0}
 https://www.wolframalpha.com/input?i=+r%3D%CF%95%C3%97frac%28%CF%950.5%29r%3D%CF%95%C3%97frac%28%CF%950.5%29
