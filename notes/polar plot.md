@@ -1,14 +1,21 @@
 ---
 title: polar plot
 created: '2024-12-15T11:36:27.718Z'
-modified: '2024-12-15T12:04:35.825Z'
+modified: '2024-12-15T12:42:46.531Z'
 ---
 
 # polar plot
 
+{r = 0.809017 r ϕ + 0, r = 0.809017 ϕ + 0, 0.809017 ϕ + 0 = 0.809017 r ϕ + 0}
+https://www.wolframalpha.com/input?i=+r%3D%CF%95%C3%97frac%28%CF%950.5%29r%3D%CF%95%C3%97frac%28%CF%950.5%29
+
 polar plot r = phi frac(phi^2) from phi = 1 to 10
 
 https://www.wolframalpha.com/input?i=+r%3D%CF%95%C3%97frac%28%CF%952%29r%3D%CF%95%C3%97frac%28%CF%952%29.
+
+https://www.wolframalpha.com/input?i=+r%3D%CF%95%C3%97frac%28%CF%950.1%29r%3D%CF%95%C3%97frac%28%CF%950.1%29
+
+ r=ϕ×frac(ϕ1.8)r=ϕ×frac(ϕ1.8)
 
  r=ϕ×frac(ϕ2)r=ϕ×frac(ϕ2).
 
